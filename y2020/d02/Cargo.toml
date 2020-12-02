@@ -1,0 +1,11 @@
+[package]
+name = "d02"
+version = "0.1.0"
+authors = ["Damian Grüner <grunerdamian@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+combine = "4.4.0"
+parse-display = "0.4.0"
